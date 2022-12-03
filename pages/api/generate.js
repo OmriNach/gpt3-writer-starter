@@ -18,8 +18,6 @@ const generateAction = async (req, res) => {
     chief complaint: headache
 
     Subjective:
-
-    Subjective:
     -Chief complaint: headache 
     -Duration of headache: [duration] 
     -Time of day when headache worsens: [time] 
